@@ -1,0 +1,57 @@
+00:00:00 [Blood Castle] (1) SetState STAND
+00:00:00 [Blood Castle] (2) SetState STAND
+00:00:00 [Blood Castle] (3) SetState STAND
+00:00:00 [Blood Castle] (4) SetState STAND
+00:00:00 [Blood Castle] (5) SetState STAND
+00:00:00 [Blood Castle] (6) SetState STAND
+00:00:00 [Blood Castle] (7) SetState STAND
+00:00:00 [Blood Castle] (8) SetState STAND
+00:00:01 [Blood Castle] (1) Not enough users
+00:00:01 [Blood Castle] (1) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (1) SetState EMPTY
+00:00:01 [Blood Castle] (2) Not enough users
+00:00:01 [Blood Castle] (2) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (2) SetState EMPTY
+00:00:01 [Blood Castle] (3) Not enough users
+00:00:01 [Blood Castle] (3) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (3) SetState EMPTY
+00:00:01 [Blood Castle] (4) Not enough users
+00:00:01 [Blood Castle] (4) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (4) SetState EMPTY
+00:00:01 [Blood Castle] (5) Not enough users
+00:00:01 [Blood Castle] (5) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (5) SetState EMPTY
+00:00:01 [Blood Castle] (6) Not enough users
+00:00:01 [Blood Castle] (6) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (6) SetState EMPTY
+00:00:01 [Blood Castle] (7) Not enough users
+00:00:01 [Blood Castle] (7) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (7) SetState EMPTY
+00:00:01 [Blood Castle] (8) Not enough users
+00:00:01 [Blood Castle] (8) Sync Start Time. [119] min remain
+00:00:01 [Blood Castle] (8) SetState EMPTY
+00:01:28 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+00:02:27 [ KANTURU ][ BattleStanby ] State(2) -> END
+00:02:28 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+00:02:28 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+00:02:28 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+00:02:28 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+00:04:27 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+00:04:27 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+00:04:27 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+00:04:27 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+00:04:29 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+00:04:29 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+00:04:29 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+00:04:29 [ KANTURU ] State(2) -> END
+00:04:29 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+00:04:29 [ KANTURU ] State(5) -> NONE
+00:04:29 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+00:04:29 [ KANTURU ] State(0) -> STANDBY
+00:04:29 [ KANTURU ][ BattleStanby ] State(0) -> START
+00:06:35 [ObjectManager][9000] DelCharacterInfo (asd1)
+00:06:35 [ObjectManager][9000] DelAccountInfo (SonXeeZ)
+00:06:35 [ObjectManager][9000] DelClient (25.1.116.186)
+00:06:35 [ObjectManager][9001] DelCharacterInfo (asd)
+00:06:35 [ObjectManager][9001] DelAccountInfo (asd)
+00:06:35 [ObjectManager][9001] DelClient (25.87.92.210)
