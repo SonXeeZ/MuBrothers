@@ -20523,3 +20523,99 @@
 22:22:08 [ObjectManager][9000] DelCharacterInfo (asd)
 22:22:54 [ObjectManager][9000] DelAccountInfo (asd)
 22:22:54 [ObjectManager][9000] DelClient (25.87.92.210)
+22:23:56 [ServerInfo] CashShop loaded successfully
+22:23:56 [ServerInfo] ChaosMix loaded successfully
+22:23:56 [ServerInfo] Character loaded successfully
+22:23:56 [ServerInfo] Command loaded successfully
+22:23:56 [ServerInfo] Common loaded successfully
+22:23:56 [ServerInfo] Custom loaded successfully
+22:23:56 [ServerInfo] Event loaded successfully
+22:23:56 [ServerInfo] EventItemBag loaded successfully
+22:23:56 [ServerInfo] Hack loaded successfully
+22:23:56 [ServerInfo] Item loaded successfully
+22:23:56 [ServerInfo] Monster loaded successfully
+22:23:56 [ServerInfo] Move loaded successfully
+22:23:56 [ServerInfo] Quest loaded successfully
+22:23:56 [ServerInfo] Shop loaded successfully
+22:23:56 [ServerInfo] Skill loaded successfully
+22:23:56 [ServerInfo] Util loaded successfully
+22:23:56 [Blood Castle] (1) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (1) SetState EMPTY
+22:23:56 [Blood Castle] (2) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (2) SetState EMPTY
+22:23:56 [Blood Castle] (3) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (3) SetState EMPTY
+22:23:56 [Blood Castle] (4) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (4) SetState EMPTY
+22:23:56 [Blood Castle] (5) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (5) SetState EMPTY
+22:23:56 [Blood Castle] (6) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (6) SetState EMPTY
+22:23:56 [Blood Castle] (7) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (7) SetState EMPTY
+22:23:56 [Blood Castle] (8) Sync Start Time. [96] min remain
+22:23:56 [Blood Castle] (8) SetState EMPTY
+22:23:56 [Castle Deep] SetState BLANK
+22:23:56 [Chaos Castle] (1) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (1) SetState EMPTY
+22:23:56 [Chaos Castle] (2) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (2) SetState EMPTY
+22:23:56 [Chaos Castle] (3) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (3) SetState EMPTY
+22:23:56 [Chaos Castle] (4) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (4) SetState EMPTY
+22:23:56 [Chaos Castle] (5) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (5) SetState EMPTY
+22:23:56 [Chaos Castle] (6) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (6) SetState EMPTY
+22:23:56 [Chaos Castle] (7) Sync Start Time. [36] min remain
+22:23:56 [Chaos Castle] (7) SetState EMPTY
+22:23:56 [Devil Square] (1) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (1) SetState EMPTY
+22:23:56 [Devil Square] (2) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (2) SetState EMPTY
+22:23:56 [Devil Square] (3) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (3) SetState EMPTY
+22:23:56 [Devil Square] (4) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (4) SetState EMPTY
+22:23:56 [Devil Square] (5) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (5) SetState EMPTY
+22:23:56 [Devil Square] (6) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (6) SetState EMPTY
+22:23:56 [Devil Square] (7) Sync Start Time. [126] min remain
+22:23:56 [Devil Square] (7) SetState EMPTY
+22:23:56 [Illusion Temple] (1) Sync Start Time. [186] min remain
+22:23:56 [Illusion Temple] (1) SetState EMPTY
+22:23:56 [Illusion Temple] (2) Sync Start Time. [186] min remain
+22:23:56 [Illusion Temple] (2) SetState EMPTY
+22:23:56 [Illusion Temple] (3) Sync Start Time. [186] min remain
+22:23:56 [Illusion Temple] (3) SetState EMPTY
+22:23:56 [Illusion Temple] (4) Sync Start Time. [186] min remain
+22:23:56 [Illusion Temple] (4) SetState EMPTY
+22:23:56 [Illusion Temple] (5) Sync Start Time. [186] min remain
+22:23:56 [Illusion Temple] (5) SetState EMPTY
+22:23:56 [Illusion Temple] (6) Sync Start Time. [186] min remain
+22:23:56 [Illusion Temple] (6) SetState EMPTY
+22:23:56 [ RAKLION ] State(0) -> END
+22:23:56 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:23:56 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:23:56 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+22:23:57 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:23:57 [ KANTURU ] State(0) -> STANDBY
+22:23:57 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:23:57 [ RAKLION ] State(10) -> IDLE
+22:24:00 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+22:24:11 [ObjectManager][9000] AddClient (25.87.92.210)
+22:24:13 [ObjectManager][9000] AddAccountInfo (asd)
+22:24:14 [ObjectManager][9000] AddCharacterInfo (asd)
+22:24:17 [ObjectManager][9001] AddClient (25.1.116.186)
+22:24:21 [ObjectManager][9000] DelCharacterInfo (asd)
+22:24:24 [ObjectManager][9001] AddAccountInfo (SonXeeZ)
+22:24:27 [ObjectManager][9001] AddCharacterInfo (asd1)
+22:24:27 [ObjectManager][9000] AddCharacterInfo (test1)
+22:27:09 [ObjectManager][9001] DelCharacterInfo (asd1)
+22:27:09 [ObjectManager][9001] DelAccountInfo (SonXeeZ)
+22:27:09 [ObjectManager][9001] DelClient (25.1.116.186)
+22:27:14 [ObjectManager][9000] DelCharacterInfo (test1)
+22:27:14 [ObjectManager][9000] DelAccountInfo (asd)
+22:27:14 [ObjectManager][9000] DelClient (25.87.92.210)
