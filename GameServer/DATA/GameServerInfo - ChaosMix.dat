@@ -50,14 +50,14 @@ PlusItemLevelMixRate2_AL0 = 60
 PlusItemLevelMixRate2_AL1 = 60
 PlusItemLevelMixRate2_AL2 = 60
 PlusItemLevelMixRate2_AL3 = 60
-PlusItemLevelMixRate3_AL0 = 50
-PlusItemLevelMixRate3_AL1 = 50
-PlusItemLevelMixRate3_AL2 = 50
-PlusItemLevelMixRate3_AL3 = 50
-PlusItemLevelMixRate4_AL0 = 50
-PlusItemLevelMixRate4_AL1 = 50
-PlusItemLevelMixRate4_AL2 = 50
-PlusItemLevelMixRate4_AL3 = 50
+PlusItemLevelMixRate3_AL0 = 40
+PlusItemLevelMixRate3_AL1 = 40
+PlusItemLevelMixRate3_AL2 = 40
+PlusItemLevelMixRate3_AL3 = 40
+PlusItemLevelMixRate4_AL0 = 30
+PlusItemLevelMixRate4_AL1 = 30
+PlusItemLevelMixRate4_AL2 = 30
+PlusItemLevelMixRate4_AL3 = 30
 
 ;==================================================
 ; Dinorant Mix Settings

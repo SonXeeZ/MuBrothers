@@ -5211,3 +5211,86 @@
 22:24:59 LEFT : SEC(509701), SIEGE-DAY(2022-01-10 20:00:00)
 22:25:59 LEFT : SEC(509641), SIEGE-DAY(2022-01-10 20:00:00)
 22:26:59 LEFT : SEC(509581), SIEGE-DAY(2022-01-10 20:00:00)
+22:29:24 [ServerInfo] CashShop loaded successfully
+22:29:24 [ServerInfo] ChaosMix loaded successfully
+22:29:24 [ServerInfo] Character loaded successfully
+22:29:24 [ServerInfo] Command loaded successfully
+22:29:24 [ServerInfo] Common loaded successfully
+22:29:24 [ServerInfo] Custom loaded successfully
+22:29:24 [ Crywolf ] State (0) -> NONE
+22:29:24 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:29:24 [ServerInfo] Event loaded successfully
+22:29:24 [ServerInfo] EventItemBag loaded successfully
+22:29:24 [ServerInfo] Hack loaded successfully
+22:29:24 [ServerInfo] Item loaded successfully
+22:29:24 [ServerInfo] Monster loaded successfully
+22:29:24 [ServerInfo] Move loaded successfully
+22:29:24 [ServerInfo] Quest loaded successfully
+22:29:24 [ServerInfo] Shop loaded successfully
+22:29:24 [ServerInfo] Skill loaded successfully
+22:29:24 [ServerInfo] Util loaded successfully
+22:29:24 [Blood Castle] (1) SetState BLANK
+22:29:24 [Blood Castle] (2) SetState BLANK
+22:29:24 [Blood Castle] (3) SetState BLANK
+22:29:24 [Blood Castle] (4) SetState BLANK
+22:29:24 [Blood Castle] (5) SetState BLANK
+22:29:24 [Blood Castle] (6) SetState BLANK
+22:29:24 [Blood Castle] (7) SetState BLANK
+22:29:24 [Blood Castle] (8) SetState BLANK
+22:29:24 [Castle Deep] Sync Start Time. [330] min remain
+22:29:24 [Castle Deep] SetState EMPTY
+22:29:24 [Chaos Castle] (1) SetState BLANK
+22:29:24 [Chaos Castle] (2) SetState BLANK
+22:29:24 [Chaos Castle] (3) SetState BLANK
+22:29:24 [Chaos Castle] (4) SetState BLANK
+22:29:24 [Chaos Castle] (5) SetState BLANK
+22:29:24 [Chaos Castle] (6) SetState BLANK
+22:29:24 [Chaos Castle] (7) SetState BLANK
+22:29:24 [Devil Square] (1) SetState BLANK
+22:29:24 [Devil Square] (2) SetState BLANK
+22:29:24 [Devil Square] (3) SetState BLANK
+22:29:24 [Devil Square] (4) SetState BLANK
+22:29:24 [Devil Square] (5) SetState BLANK
+22:29:24 [Devil Square] (6) SetState BLANK
+22:29:24 [Devil Square] (7) SetState BLANK
+22:29:24 [Illusion Temple] (1) SetState BLANK
+22:29:24 [Illusion Temple] (2) SetState BLANK
+22:29:24 [Illusion Temple] (3) SetState BLANK
+22:29:24 [Illusion Temple] (4) SetState BLANK
+22:29:24 [Illusion Temple] (5) SetState BLANK
+22:29:24 [Illusion Temple] (6) SetState BLANK
+22:29:24 [ RAKLION ] State(0) -> END
+22:29:24 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:29:24 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:29:24 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+22:29:25 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+22:29:25 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+22:29:25 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-1-4)
+22:29:25 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+22:29:25 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-1-11(0:0:0))
+22:29:25 [CastleSiege] CCastleSiege::Init() - START
+22:29:25 SET SetState_REGSIEGE()
+22:29:25 LEFT : SEC(509435), SIEGE-DAY(2022-01-10 20:00:00)
+22:29:26 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+22:30:25 LEFT : SEC(509375), SIEGE-DAY(2022-01-10 20:00:00)
+22:31:25 LEFT : SEC(509315), SIEGE-DAY(2022-01-10 20:00:00)
+22:32:25 LEFT : SEC(509255), SIEGE-DAY(2022-01-10 20:00:00)
+22:33:25 LEFT : SEC(509195), SIEGE-DAY(2022-01-10 20:00:00)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(444), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(445), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(446), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(447), MAXHP:400000, HP:400000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(448), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(449), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(450), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(451), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(452), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(453), MAXHP:500000, HP:500000, DF:0, RG:0)
+22:34:25 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+22:34:25 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+22:34:25 LEFT : SEC(509135), SIEGE-DAY(2022-01-10 20:00:00)
+22:35:26 LEFT : SEC(509075), SIEGE-DAY(2022-01-10 20:00:01)
+22:36:26 LEFT : SEC(509015), SIEGE-DAY(2022-01-10 20:00:01)
+22:37:26 LEFT : SEC(508955), SIEGE-DAY(2022-01-10 20:00:01)
+22:38:26 LEFT : SEC(508894), SIEGE-DAY(2022-01-10 20:00:00)
