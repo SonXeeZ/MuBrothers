@@ -41,3 +41,5 @@
 22:29:33 [AccountInfo] Account connected (Account: asd, IpAddress: 25.87.92.210, GameServerCode: 0)
 22:32:41 [AccountInfo] Account connected (Account: SonXeeZ, IpAddress: 25.1.116.186, GameServerCode: 0)
 22:38:40 [AccountInfo] Account disconnected (Account: SonXeeZ, IpAddress: 25.1.116.186, GameServerCode: 0)
+22:47:24 [AccountInfo] Account connected (Account: asd, IpAddress: 25.87.92.210, GameServerCode: 0)
+22:47:39 [AccountInfo] Account connected (Account: SonXeeZ, IpAddress: 25.1.116.186, GameServerCode: 0)
