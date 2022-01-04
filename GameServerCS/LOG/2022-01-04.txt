@@ -5084,3 +5084,66 @@
 22:14:26 SET SetState_REGSIEGE()
 22:14:26 LEFT : SEC(510334), SIEGE-DAY(2022-01-10 20:00:00)
 22:14:27 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+22:20:06 [ServerInfo] CashShop loaded successfully
+22:20:06 [ServerInfo] ChaosMix loaded successfully
+22:20:06 [ServerInfo] Character loaded successfully
+22:20:06 [ServerInfo] Command loaded successfully
+22:20:06 [ServerInfo] Common loaded successfully
+22:20:06 [ServerInfo] Custom loaded successfully
+22:20:06 [ Crywolf ] State (0) -> NONE
+22:20:06 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+22:20:06 [ServerInfo] Event loaded successfully
+22:20:06 [ServerInfo] EventItemBag loaded successfully
+22:20:06 [ServerInfo] Hack loaded successfully
+22:20:06 [ServerInfo] Item loaded successfully
+22:20:06 [ServerInfo] Monster loaded successfully
+22:20:06 [ServerInfo] Move loaded successfully
+22:20:06 [ServerInfo] Quest loaded successfully
+22:20:06 [ServerInfo] Shop loaded successfully
+22:20:06 [ServerInfo] Skill loaded successfully
+22:20:06 [ServerInfo] Util loaded successfully
+22:20:06 [Blood Castle] (1) SetState BLANK
+22:20:06 [Blood Castle] (2) SetState BLANK
+22:20:06 [Blood Castle] (3) SetState BLANK
+22:20:06 [Blood Castle] (4) SetState BLANK
+22:20:06 [Blood Castle] (5) SetState BLANK
+22:20:06 [Blood Castle] (6) SetState BLANK
+22:20:06 [Blood Castle] (7) SetState BLANK
+22:20:06 [Blood Castle] (8) SetState BLANK
+22:20:06 [Castle Deep] Sync Start Time. [339] min remain
+22:20:06 [Castle Deep] SetState EMPTY
+22:20:06 [Chaos Castle] (1) SetState BLANK
+22:20:06 [Chaos Castle] (2) SetState BLANK
+22:20:06 [Chaos Castle] (3) SetState BLANK
+22:20:06 [Chaos Castle] (4) SetState BLANK
+22:20:06 [Chaos Castle] (5) SetState BLANK
+22:20:06 [Chaos Castle] (6) SetState BLANK
+22:20:06 [Chaos Castle] (7) SetState BLANK
+22:20:06 [Devil Square] (1) SetState BLANK
+22:20:06 [Devil Square] (2) SetState BLANK
+22:20:06 [Devil Square] (3) SetState BLANK
+22:20:06 [Devil Square] (4) SetState BLANK
+22:20:06 [Devil Square] (5) SetState BLANK
+22:20:06 [Devil Square] (6) SetState BLANK
+22:20:06 [Devil Square] (7) SetState BLANK
+22:20:06 [Illusion Temple] (1) SetState BLANK
+22:20:06 [Illusion Temple] (2) SetState BLANK
+22:20:06 [Illusion Temple] (3) SetState BLANK
+22:20:06 [Illusion Temple] (4) SetState BLANK
+22:20:06 [Illusion Temple] (5) SetState BLANK
+22:20:06 [Illusion Temple] (6) SetState BLANK
+22:20:06 [ RAKLION ] State(0) -> END
+22:20:06 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:20:06 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:20:06 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+22:20:07 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+22:20:07 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+22:20:07 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-1-4)
+22:20:07 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+22:20:07 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-1-11(0:0:0))
+22:20:07 [CastleSiege] CCastleSiege::Init() - START
+22:20:07 SET SetState_REGSIEGE()
+22:20:08 LEFT : SEC(509993), SIEGE-DAY(2022-01-10 20:00:01)
+22:20:08 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+22:21:08 LEFT : SEC(509933), SIEGE-DAY(2022-01-10 20:00:01)
+22:22:08 LEFT : SEC(509873), SIEGE-DAY(2022-01-10 20:00:01)
