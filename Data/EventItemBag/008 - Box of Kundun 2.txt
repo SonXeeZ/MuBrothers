@@ -5,175 +5,175 @@ end
 
 1
 //Section   Type   MinLevel   MaxLevel   Skill   Luck   Option   Excellent
-0	0	0	0	0	0	0	1 //Kris
-0	0	0	0	1	0	0	1 //Kris
-0	0	0	0	1	1	0	1 //Kris
-0	0	0	0	1	1	1	1 //Kris
-0	0	0	0	1	1	2	1 //Kris
-0	1	0	0	0	0	0	1 //Short Sword
-0	1	0	0	1	0	0	1 //Short Sword
-0	1	0	0	1	1	0	1 //Short Sword
-0	1	0	0	1	1	1	1 //Short Sword
-0	1	0	0	1	1	2	1 //Short Sword
-0	2	0	0	0	0	0	1 //Rapier
-0	2	0	0	1	0	0	1 //Rapier
-0	2	0	0	1	1	0	1 //Rapier
-0	2	0	0	1	1	1	1 //Rapier
-0	2	0	0	1	1	2	1 //Rapier
-1	0	0	0	0	0	0	1 //Small Axe
-1	0	0	0	1	0	0	1 //Small Axe
-1	0	0	0	1	1	0	1 //Small Axe
-1	0	0	0	1	1	1	1 //Small Axe
-1	0	0	0	1	1	2	1 //Small Axe
-1	1	0	0	0	0	0	1 //Hand Axe
-1	1	0	0	1	0	0	1 //Hand Axe
-1	1	0	0	1	1	0	1 //Hand Axe
-1	1	0	0	1	1	1	1 //Hand Axe
-1	1	0	0	1	1	2	1 //Hand Axe
-1	2	0	0	0	0	0	1 //Double Axe
-1	2	0	0	1	0	0	1 //Double Axe
-1	2	0	0	1	1	0	1 //Double Axe
-1	2	0	0	1	1	1	1 //Double Axe
-1	2	0	0	1	1	2	1 //Double Axe
-3	2	0	0	0	0	0	1 //Dragon Lance
-3	2	0	0	1	0	0	1 //Dragon Lance
-3	2	0	0	1	1	0	1 //Dragon Lance
-3	2	0	0	1	1	1	1 //Dragon Lance
-3	2	0	0	1	1	2	1 //Dragon Lance
-4	1	0	0	0	0	0	1 //Bow
-4	1	0	0	1	0	0	1 //Bow
-4	1	0	0	1	1	0	1 //Bow
-4	1	0	0	1	1	1	1 //Bow
-4	1	0	0	1	1	1	1 //Bow
-4	2	0	0	0	0	0	1 //Elven Bow
-4	2	0	0	1	0	0	1 //Elven Bow
-4	2	0	0	1	1	0	1 //Elven Bow
-4	2	0	0	1	1	1	1 //Elven Bow
-4	2	0	0	1	1	2	1 //Elven Bow
-5	1	0	0	0	0	0	1 //Angelic Staff
-5	1	0	0	1	0	0	1 //Angelic Staff
-5	1	0	0	1	1	0	1 //Angelic Staff
-5	1	0	0	1	1	1	1 //Angelic Staff
-5	1	0	0	1	1	2	1 //Angelic Staff
-5	2	0	0	0	0	0	1 //Serpent Staff
-5	2	0	0	1	0	0	1 //Serpent Staff
-5	2	0	0	1	1	0	1 //Serpent Staff
-5	2	0	0	1	1	1	1 //Serpent Staff
-5	2	0	0	1	1	2	1 //Serpent Staff
-6	1	0	0	0	0	0	1 //Horn Shield
-6	1	0	0	1	0	0	1 //Horn Shield
-6	1	0	0	1	1	0	1 //Horn Shield
-6	1	0	0	1	1	1	1 //Horn Shield
-6	1	0	0	1	1	2	1 //Horn Shield
-6	2	0	0	0	0	0	1 //Kite Shield
-6	2	0	0	1	0	0	1 //Kite Shield
-6	2	0	0	1	1	1	1 //Kite Shield
-6	2	0	0	1	1	0	1 //Kite Shield
-6	2	0	0	1	1	2	1 //Kite Shield
-7	5	0	0	0	0	0	1 //Leather Helm
-7	5	0	0	1	1	1	1 //Leather Helm
-7	5	0	0	1	1	2	1 //Leather Helm
-7	5	0	0	1	1	0	1 //Leather Helm
-7	5	0	0	1	0	0	1 //Leather Helm
-7	10	0	0	0	0	0	1 //Vine Helm
-7	10	0	0	1	0	0	1 //Vine Helm
-7	10	0	0	1	1	0	1 //Vine Helm
-7	10	0	0	1	1	1	1 //Vine Helm
-7	10	0	0	1	1	2	1 //Vine Helm
-7	2	0	0	0	0	0	1 //Pad Helm
-7	2	0	0	1	0	0	1 //Pad Helm
-7	2	0	0	1	1	0	1 //Pad Helm
-7	2	0	0	1	1	1	1 //Pad Helm
-7	2	0	0	1	1	2	1 //Pad Helm
-8	2	0	0	0	0	0	1 //Pad Armor
-8	2	0	0	1	1	1	1 //Pad Armor
-8	2	0	0	1	1	2	1 //Pad Armor
-8	2	0	0	1	1	0	1 //Pad Armor
-8	2	0	0	1	0	0	1 //Pad Armor
-9	2	0	0	0	0	0	1 //Pad Pants
-9	2	0	0	1	0	0	1 //Pad Pants
-9	2	0	0	1	1	0	1 //Pad Pants
-9	2	0	0	1	1	1	1 //Pad Pants
-9	2	0	0	1	1	2	1 //Pad Pants
-10	2	0	0	0	0	0 	1 //Pad Gloves
-10	2	0	0	1	1	1 	1 //Pad Gloves
-10	2	0	0	1	1	2 	1 //Pad Gloves
-10	2	0	0	1	1	0 	1 //Pad Gloves
-10	2	0	0	1	0	0 	1 //Pad Gloves
-11	2	0	0	0	0	0	1 //Pad Boots
-11	2	0	0	1	0	0	1 //Pad Boots
-11	2	0	0	1	1	0	1 //Pad Boots
-11	2	0	0	1	1	1	1 //Pad Boots
-11	2	0	0	1	1	2	1 //Pad Boots
-8	5	0	0	0	0	0	1 //Leather Armor
-8	5	0	0	1	0	0	1 //Leather Armor
-8	5	0	0	1	1	0	1 //Leather Armor
-8	5	0	0	1	1	1	1 //Leather Armor
-8	5	0	0	1	1	2	1 //Leather Armor
-9	5	0	0	0	0	0	1 //Leather Pants
-9	5	0	0	1	0	0	1 //Leather Pants
-9	5	0	0	1	1	0	1 //Leather Pants
-9	5	0	0	1	1	1	1 //Leather Pants
-9	5	0	0	1	1	2	1 //Leather Pants
-10	5	0	0	0	0	0	1 //Leather Gloves
-10	5	0	0	1	0	0	1 //Leather Gloves
-10	5	0	0	1	1	0	1 //Leather Gloves
-10	5	0	0	1	1	1	1 //Leather Gloves
-10	5	0	0	1	1	2	1 //Leather Gloves
-11	5	0	0	0	0	0	1 //Leather Boots
-11	5	0	0	1	0	0	1 //Leather Boots
-11	5	0	0	1	1	0	1 //Leather Boots
-11	5	0	0	1	1	1	1 //Leather Boots
-11	5	0	0	1	1	2	1 //Leather Boots
-8	10	0	0	0	0	0	1 //Vine Armor
-8	10	0	0	1	0	0	1 //Vine Armor
-8	10	0	0	1	1	0	1 //Vine Armor
-8	10	0	0	1	1	1	1 //Vine Armor
-8	10	0	0	1	1	2	1 //Vine Armor
-9	10	0	0	0	0	0	1 //Vine Pants
-9	10	0	0	1	0	0	1 //Vine Pants
-9	10	0	0	1	1	0	1 //Vine Pants
-9	10	0	0	1	1	1	1 //Vine Pants
-9	10	0	0	1	1	2	1 //Vine Pants
-10	10	0	0	0	0	0	1 //Vine Gloves
-10	10	0	0	1	0	0	1 //Vine Gloves
-10	10	0	0	1	1	0	1 //Vine Gloves
-10	10	0	0	1	1	1	1 //Vine Gloves
-10	10	0	0	1	1	2	1 //Vine Gloves
-11	10	0	0	0	0	0	1 //Vine Boots
-11	10	0	0	1	0	0	1 //Vine Boots
-11	10	0	0	1	1	0	1 //Vine Boots
-11	10	0	0	1	1	1	1 //Vine Boots
-11	10	0	0	1	1	2	1 //Vine Boots
-13	64	0	0	0	0	0	0 //Evil Satan
-13	8	0	0	0	0	1	1 //Ring of Ice
-13	8	0	0	0	1	1	1 //Ring of Ice
-13	8	0	0	0	2	1	1 //Ring of Ice
-13	9	0	0	0	0	1	1 //Ring of Poison
-13	9	0	0	0	1	1	1 //Ring of Poison
-13	9	0	0	0	2	1	1 //Ring of Poison
-13	21	0	0	0	0	1	1 //Ring of Fire
-13	21	0	0	0	1	1	1 //Ring of Fire
-13	21	0	0	0	2	1	1 //Ring of Fire
-13	22	0	0	0	0	1	1 //Ring of Earth
-13	22	0	0	0	1	1	1 //Ring of Earth
-13	22	0	0	0	2	1	1 //Ring of Earth
-13	23	0	0	0	0	1	1 //Ring of Wind
-13	23	0	0	0	1	1	1 //Ring of Wind
-13	23	0	0	0	2	1	1 //Ring of Wind
-13	24	0	0	0	0	1	1 //Ring of Magic
-13	24	0	0	0	1	1	1 //Ring of Magic
-13	24	0	0	0	2	1	1 //Ring of Magic
-13	25	0	0	0	0	1	1 //Pendant of Ice
-13	25	0	0	0	1	1	1 //Pendant of Ice
-13	25	0	0	0	2	1	1 //Pendant of Ice
-13	26	0	0	0	0	1	1 //Pendant of Wind
-13	26	0	0	0	1	1	1 //Pendant of Wind
-13	26	0	0	0	2	1	1 //Pendant of Wind
-13	27	0	0	0	0	1	1 //Pendant of Water
-13	27	0	0	0	1	1	1 //Pendant of Water
-13	27	0	0	0	2	1	1 //Pendant of Water
-13	28	0	0	0	0	1	1 //Pendant of Ability
-13	28	0	0	0	1	1	1 //Pendant of Ability
-13	28	0	0	0	2	1	1 //Pendant of Ability
+
+7	4	0	0	0	0	0	1 //Bone Helm
+7	4	0	0	1	0	0	1 //Bone Helm
+7	4	0	0	1	1	0	1 //Bone Helm
+7	4	0	0	1	1	1	1 //Bone Helm
+7	4	0	0	1	1	2	1 //Bone Helm
+8	4	0	0	0	0	0	1 //Bone Armor
+8	4	0	0	1	0	0	1 //Bone Armor
+8	4	0	0	1	1	1	1 //Bone Armor
+8	4	0	0	1	1	0	1 //Bone Armor
+8	4	0	0	1	1	2	1 //Bone Armor
+9	4	0	0	0	0	0	1 //Bone Pants
+9	4	0	0	1	0	0	1 //Bone Pants
+9	4	0	0	1	1	0	1 //Bone Pants
+9	4	0	0	1	1	1	1 //Bone Pants
+9	4	0	0	1	1	2	1 //Bone Pants
+10	4	0	0	0	0	0	1 //Bone Gloves
+10	4	0	0	1	0	0	1 //Bone Gloves
+10	4	0	0	1	1	0	1 //Bone Gloves
+10	4	0	0	1	1	1	1 //Bone Gloves
+10	4	0	0	1	1	2	1 //Bone Gloves
+11	4	0	0	0	0	0	1 //Bone Boots
+11	4	0	0	1	0	0	1 //Bone Boots
+11	4	0	0	1	1	0	1 //Bone Boots
+11	4	0	0	1	1	1	1 //Bone Boots
+11	4	0	0	1	1	2	1 //Bone Boots
+7	6	0	0	0	0	0	1 //Scale Helm
+7	6	0	0	1	0	0	1 //Scale Helm
+7	6	0	0	1	1	0	1 //Scale Helm
+7	6	0	0	1	1	1	1 //Scale Helm
+7	6	0	0	1	1	2	1 //Scale Helm
+8	6	0	0	0	0	0	1 //Scale Armor
+8	6	0	0	1	0	0	1 //Scale Armor
+8	6	0	0	1	1	0	1 //Scale Armor
+8	6	0	0	1	1	1	1 //Scale Armor
+8	6	0	0	1	1	2	1 //Scale Armor
+9	6	0	0	0	0	0	1 //Scale Pants
+9	6	0	0	1	0	0	1 //Scale Pants
+9	6	0	0	1	1	0	1 //Scale Pants
+9	6	0	0	1	1	1	1 //Scale Pants
+9	6	0	0	1	1	2	1 //Scale Pants
+10	6	0	0	0	0	0	1 //Scale Gloves
+10	6	0	0	1	0	0	1 //Scale Gloves
+10	6	0	0	1	1	0	1 //Scale Gloves
+10	6	0	0	1	1	1	1 //Scale Gloves
+10	6	0	0	1	1	2	1 //Scale Gloves
+11	6	0	0	0	0	0	1 //Scale Boots
+11	6	0	0	1	0	0	1 //Scale Boots
+11	6	0	0	1	1	0	1 //Scale Boots
+11	6	0	0	1	1	1	1 //Scale Boots
+11	6	0	0	1	1	2	1 //Scale Boots
+7	13	0	0	0	0	0	1 //Spirit Helm
+7	13	0	0	1	0	0	1 //Spirit Helm
+7	13	0	0	1	1	0	1 //Spirit Helm
+7	13	0	0	1	1	1	1 //Spirit Helm
+7	13	0	0	1	1	2	1 //Spirit Helm
+8	13	0	0	0	0	0	1 //Spirit Armor
+8	13	0	0	1	0	0	1 //Spirit Armor
+8	13	0	0	1	1	0	1 //Spirit Armor
+8	13	0	0	1	1	1	1 //Spirit Armor
+8	13	0	0	1	1	2	1 //Spirit Armor
+9	13	0	0	0	0	0	1 //Spirit Pants
+9	13	0	0	1	0	0	1 //Spirit Pants
+9	13	0	0	1	1	0	1 //Spirit Pants
+9	13	0	0	1	1	1	1 //Spirit Pants
+9	13	0	0	1	1	2	1 //Spirit Pants
+10	13	0	0	0	0	0	1 //Spirit Gloves
+10	13	0	0	1	0	0	1 //Spirit Gloves
+10	13	0	0	1	1	0	1 //Spirit Gloves
+10	13	0	0	1	1	1	1 //Spirit Gloves
+10	13	0	0	1	1	2	1 //Spirit Gloves
+11	13	0	0	0	0	0	1 //Spirit Boots
+11	13	0	0	1	0	0	1 //Spirit Boots
+11	13	0	0	1	1	0	1 //Spirit Boots
+11	13	0	0	1	1	1	1 //Spirit Boots
+11	13	0	0	1	1	2	1 //Spirit Boots
+5	8	0	0	0	0	0	1 //Staff of Destruction
+5	8	0	0	1	0	0	1 //Staff of Destruction
+5	8	0	0	1	1	0	1 //Staff of Destruction
+5	8	0	0	1	1	1	1 //Staff of Destruction
+5	8	0	0	1	1	2	1 //Staff of Destruction
+6	6	0	0	0	0	0	1 //Skull Shield
+6	6	0	0	1	0	0	1 //Skull Shield
+6	6	0	0	1	1	0	1 //Skull Shield
+6	6	0	0	1	1	1	1 //Skull Shield
+6	6	0	0	1	1	2	1 //Skull Shield
+6	7	0	0	0	0	0	1 //Spike Shield
+6	7	0	0	1	0	0	1 //Spike Shield
+6	7	0	0	1	1	0	1 //Spike Shield
+6	7	0	0	1	1	1	1 //Spike Shield
+6	7	0	0	1	1	2	1 //Spike Shield
+0	5	0	0	0	0	0	1 //Blade
+0	5	0	0	1	0	0	1 //Blade
+0	5	0	0	1	1	0	1 //Blade
+0	5	0	0	1	1	1	1 //Blade
+0	5	0	0	1	1	2	1 //Blade
+0	3	0	0	0	0	0	1 //Katana
+0	3	0	0	1	0	0	1 //Katana
+0	3	0	0	1	1	0	1 //Katana
+0	3	0	0	1	1	1	1 //Katana
+0	3	0	0	1	1	2	1 //Katana
+0	4	0	0	0	0	0	1 //Sword of Assassin
+0	4	0	0	1	0	0	1 //Sword of Assassin
+0	4	0	0	1	1	0	1 //Sword of Assassin
+0	4	0	0	1	1	1	1 //Sword of Assassin
+0	4	0	0	1	1	2	1 //Sword of Assassin
+2	3	0	0	0	0	0	1 //Great Hammer
+2	3	0	0	1	0	0	1 //Great Hammer
+2	3	0	0	1	1	0	1 //Great Hammer
+2	3	0	0	1	1	1	1 //Great Hammer
+2	3	0	0	1	1	2	1 //Great Hammer
+2	2	0	0	0	0	0	1 //Flail
+2	2	0	0	1	0	0	1 //Flail
+2	2	0	0	1	1	0	1 //Flail
+2	2	0	0	1	1	1	1 //Flail
+2	2	0	0	1	1	2	1 //Flail
+2	1	0	0	0	0	0	1 //Morning Star
+2	1	0	0	1	0	0	1 //Morning Star
+2	1	0	0	1	1	0	1 //Morning Star
+2	1	0	0	1	1	1	1 //Morning Star
+2	1	0	0	1	1	2	1 //Morning Star
+4	3	0	0	0	0	0	1 //Battle Bow
+4	3	0	0	1	0	0	1 //Battle Bow
+4	3	0	0	1	1	0	1 //Battle Bow
+4	3	0	0	1	1	1	1 //Battle Bow
+4	3	0	0	1	1	2	1 //Battle Bow
+4	4	0	0	0	0	0	1 //Tiger Bow
+4	4	0	0	1	0	0	1 //Tiger Bow
+4	4	0	0	1	1	0	1 //Tiger Bow
+4	4	0	0	1	1	1	1 //Tiger Bow
+4	4	0	0	1	1	2	1 //Tiger Bow
+4	9	0	0	0	0	0	1 //Golden Crossbow
+4	9	0	0	1	0	0	1 //Golden Crossbow
+4	9	0	0	1	1	0	1 //Golden Crossbow
+4	9	0	0	1	1	1	1 //Golden Crossbow
+4	9	0	0	1	1	2	1 //Golden Crossbow
+5	14	0	0	0	0	0	1 //Mistery Staff
+5	14	0	0	1	0	0	1 //Mistery Staff
+5	14	0	0	1	1	0	1 //Mistery Staff
+5	14	0	0	1	1	1	1 //Mistery Staff
+5	14	0	0	1	1	2	1 //Mistery Staff
+7	39	0	0	0	0	0	1 //Mistery Helm
+7	39	0	0	1	0	0	1 //Mistery Helm
+7	39	0	0	1	1	0	1 //Mistery Helm
+7	39	0	0	1	1	1	1 //Mistery Helm
+7	39	0	0	1	1	2	1 //Mistery Helm
+8	39	0	0	0	0	0	1 //Mistery Armor
+8	39	0	0	1	0	0	1 //Mistery Armor
+8	39	0	0	1	1	0	1 //Mistery Armor
+8	39	0	0	1	1	1	1 //Mistery Armor
+8	39	0	0	1	1	2	1 //Mistery Armor
+9	39	0	0	0	0	0	1 //Mistery Pants
+9	39	0	0	1	0	0	1 //Mistery Pants
+9	39	0	0	1	1	0	1 //Mistery Pants
+9	39	0	0	1	1	1	1 //Mistery Pants
+9	39	0	0	1	1	2	1 //Mistery Pants
+10	39	0	0	0	0	0	1 //Mistery Gloves
+10	39	0	0	1	0	0	1 //Mistery Gloves
+10	39	0	0	1	1	0	1 //Mistery Gloves
+10	39	0	0	1	1	1	1 //Mistery Gloves
+10	39	0	0	1	1	2	1 //Mistery Gloves
+11	39	0	0	0	0	0	1 //Mistery Boots
+11	39	0	0	1	0	0	1 //Mistery Boots
+11	39	0	0	1	1	0	1 //Mistery Boots
+11	39	0	0	1	1	1	1 //Mistery Boots
+11	39	0	0	1	1	2	1 //Mistery Boots
+1	4	0	0	0	0	0	1 //Elven Axe
+1	4	0	0	1	0	0	1 //Elven Axe
+1	4	0	0	1	1	0	1 //Elven Axe
+1	4	0	0	1	1	1	1 //Elven Axe
+1	4	0	0	1	1	2	1 //Elven Axe
 end
