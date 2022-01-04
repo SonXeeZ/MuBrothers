@@ -127,6 +127,7 @@ end
 0
 //Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
 256            00             00         129            118            03             //Lahap
+256            03             00         183            103            02             //Lahap
 415            51             00         044            229            01             //Silvia
 416            51             00         029            236            02             //Rhea
 417            51             00         036            219            02             //Marce
