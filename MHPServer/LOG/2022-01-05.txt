@@ -1,0 +1,9 @@
+00:08:47 [SocketManager] Server started at port [55999]
+00:08:47 [ServerInfo] Config loaded successfully
+00:08:47 [ServerInfo] DumpList loaded successfully
+00:08:47 [ServerInfo] ChecksumList loaded successfully
+00:08:47 [ServerInfo] InternalList loaded successfully
+00:08:47 [ServerInfo] WindowList loaded successfully
+00:08:47 [ServerInfo] BlackList loaded successfully
+00:08:48 [ClientManager][0] AddClient (25.1.116.186)
+00:08:48 [ClientManager][0] ClientInfo (HardwareId: 21A3B448-D6C5F5DA-C56CE07D-CD1EE8A5)
