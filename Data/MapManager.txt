@@ -1,7 +1,7 @@
 //Index   NonPK   ViewRange   ExperienceRate   ItemDropRate   ExcItemDropRate   SetItemDropRate   SocketItemDrop   Comment
 0         *       12          100              100            1000              0                 0                //Lorencia
 1         *       12          100              100            1000              0                 0                //Dungeon
-2         *       12          100              100            1000              0                 0                //Devias
+2         *       12          100              1              1000              0                 0                //Devias
 3         *       12          100              100            1000              0                 0                //Noria
 4         *       12          100              100            1000              0                 0                //Lost Tower
 6         *       10          100              100            1000              0                 0                //Arena
